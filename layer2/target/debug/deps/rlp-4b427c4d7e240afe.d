@@ -1,0 +1,12 @@
+/Users/alexkim/Desktop/Rust-blockchain basics/layer2/target/debug/deps/librlp-4b427c4d7e240afe.rmeta: /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/lib.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/error.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/impls.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/rlpin.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/stream.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/traits.rs
+
+/Users/alexkim/Desktop/Rust-blockchain basics/layer2/target/debug/deps/librlp-4b427c4d7e240afe.rlib: /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/lib.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/error.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/impls.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/rlpin.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/stream.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/traits.rs
+
+/Users/alexkim/Desktop/Rust-blockchain basics/layer2/target/debug/deps/rlp-4b427c4d7e240afe.d: /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/lib.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/error.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/impls.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/rlpin.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/stream.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/traits.rs
+
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/lib.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/error.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/impls.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/rlpin.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/stream.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/traits.rs:

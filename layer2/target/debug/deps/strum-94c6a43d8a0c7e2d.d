@@ -1,0 +1,6 @@
+/Users/alexkim/Desktop/Rust-blockchain basics/layer2/target/debug/deps/libstrum-94c6a43d8a0c7e2d.rmeta: /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/strum-0.26.3/src/lib.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/strum-0.26.3/src/additional_attributes.rs
+
+/Users/alexkim/Desktop/Rust-blockchain basics/layer2/target/debug/deps/strum-94c6a43d8a0c7e2d.d: /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/strum-0.26.3/src/lib.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/strum-0.26.3/src/additional_attributes.rs
+
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/strum-0.26.3/src/lib.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/strum-0.26.3/src/additional_attributes.rs:

@@ -1,0 +1,11 @@
+/Users/alexkim/Desktop/Rust-blockchain basics/layer2/target/debug/deps/libconst_hex-9454e6cbd684a821.rmeta: /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/lib.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/arch/mod.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/arch/generic.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/impl_core.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/traits.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/buffer.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/arch/aarch64.rs
+
+/Users/alexkim/Desktop/Rust-blockchain basics/layer2/target/debug/deps/const_hex-9454e6cbd684a821.d: /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/lib.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/arch/mod.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/arch/generic.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/impl_core.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/traits.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/buffer.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/arch/aarch64.rs
+
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/lib.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/arch/mod.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/arch/generic.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/impl_core.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/traits.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/buffer.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.14.0/src/arch/aarch64.rs:

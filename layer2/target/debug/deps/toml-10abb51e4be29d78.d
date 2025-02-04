@@ -1,0 +1,13 @@
+/Users/alexkim/Desktop/Rust-blockchain basics/layer2/target/debug/deps/libtoml-10abb51e4be29d78.rmeta: /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/lib.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/map.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/value.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/de.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/ser.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/macros.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/edit.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/fmt.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/table.rs
+
+/Users/alexkim/Desktop/Rust-blockchain basics/layer2/target/debug/deps/toml-10abb51e4be29d78.d: /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/lib.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/map.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/value.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/de.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/ser.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/macros.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/edit.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/fmt.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/table.rs
+
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/lib.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/map.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/value.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/de.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/ser.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/macros.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/edit.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/fmt.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.19/src/table.rs:

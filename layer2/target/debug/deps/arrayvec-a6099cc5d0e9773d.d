@@ -1,0 +1,11 @@
+/Users/alexkim/Desktop/Rust-blockchain basics/layer2/target/debug/deps/libarrayvec-a6099cc5d0e9773d.rmeta: /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/lib.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec_impl.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/array_string.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/char.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/errors.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/utils.rs
+
+/Users/alexkim/Desktop/Rust-blockchain basics/layer2/target/debug/deps/arrayvec-a6099cc5d0e9773d.d: /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/lib.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec_impl.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/array_string.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/char.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/errors.rs /Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/utils.rs
+
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/lib.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec_impl.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/array_string.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/char.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/errors.rs:
+/Users/alexkim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/utils.rs:
