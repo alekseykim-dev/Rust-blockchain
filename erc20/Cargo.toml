@@ -10,10 +10,11 @@ ink = { version = "5.1.1", default-features = false }
 [dev-dependencies]
 ink_e2e = { version = "5.1.1" }
 
-[lib]  # ✅ Ensures the project is compiled as a library (not a binary)
+# Remove the [lib] section entirely and replace it with this:
+[contract]
 name = "erc20"
-path = "lib.rs"
-crate-type = ["cdylib"]
+version = "0.1.0"
+authors = ["Aleksey <alex.romanovich.ak@gmail.com>"]
 
 [features]
 default = ["std"]

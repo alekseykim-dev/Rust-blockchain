@@ -1,5 +1,4 @@
 #![cfg_attr(not(feature = "std"), no_std)]
-
 #[ink::contract]
 mod erc20 {
     use ink::storage::Mapping;
@@ -16,7 +15,7 @@ mod erc20 {
         pub fn new(initial_supply: Balance) -> Self {
             let caller: AccountId = ink::env::caller::<DefaultEnvironment>(); 
             let mut balances = Mapping::new();
-            balances.insert(caller, initial_supply); // ✅ Removed unnecessary &
+            balances.insert(caller, &initial_supply); // ✅ Corrected: added `&`
             Self {
                 total_supply: initial_supply,
                 balances,
@@ -29,7 +28,7 @@ mod erc20 {
             let caller_balance = self.balance_of(caller);
 
             if let Some(new_caller_balance) = caller_balance.checked_sub(value) {
-                self.balances.insert(caller, new_caller_balance); // ✅ Removed unnecessary &
+                self.balances.insert(caller, &new_caller_balance); 
             } else {
                 return false; // Not enough balance
             }
@@ -37,17 +36,16 @@ mod erc20 {
             let receiver_balance = self.balance_of(to);
 
             if let Some(new_receiver_balance) = receiver_balance.checked_add(value) {
-                self.balances.insert(to, new_receiver_balance); // ✅ Removed unnecessary &
+                self.balances.insert(to, &new_receiver_balance); 
             } else {
-                return false; // Overflow error
+                return false; 
             }
 
             true
         }
-
         #[ink(message)]
         pub fn balance_of(&self, owner: AccountId) -> Balance {
-            self.balances.get(owner).unwrap_or(0) // ✅ Removed unnecessary &
+            self.balances.get(owner).unwrap_or(0)
         }
     }
 }
